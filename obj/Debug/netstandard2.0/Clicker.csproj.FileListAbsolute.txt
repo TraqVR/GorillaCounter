@@ -1,0 +1,5 @@
+C:\Users\mcvot\OneDrive\Documents\Clicker\obj\Debug\netstandard2.0\Clicker.csproj.AssemblyReference.cache
+C:\Users\mcvot\OneDrive\Documents\Clicker\obj\Debug\netstandard2.0\Clicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcvot\OneDrive\Documents\Clicker\obj\Debug\netstandard2.0\Clicker.AssemblyInfoInputs.cache
+C:\Users\mcvot\OneDrive\Documents\Clicker\obj\Debug\netstandard2.0\Clicker.AssemblyInfo.cs
+C:\Users\mcvot\OneDrive\Documents\Clicker\obj\Debug\netstandard2.0\Clicker.csproj.CoreCompileInputs.cache
